@@ -1,0 +1,7 @@
+{
+    "NSW_Geocoded_Addressing_Theme_API_URL" : "https://portal.spatial.nsw.gov.au/server/rest/services/NSW_Geocoded_Addressing_Theme/FeatureServer/1/query",
+    "NSW_Administrative_Boundaries_API_URL":"https://portal.spatial.nsw.gov.au/server/rest/services/NSW_Administrative_Boundaries_Theme/FeatureServer",
+    "SUBURB_API_SERVER":"2",
+    "DISTRICT_API_SERVER":"4"
+   
+}
